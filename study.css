@@ -1,0 +1,24 @@
+#BoxModel {
+    width: 300px; 
+    text-align: justify;
+    border: 10px solid greenyellow;
+    margin: 100px;
+    background-color: aqua;
+    align-content: center;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+.heading1 {
+    color: blue;
+    text-align: center;
+    background-color: darkgray;
+}
+#p1{
+    text-align:end;
+    position: sticky;
+}
+.list{
+    color: chocolate;
+}
