@@ -14,6 +14,7 @@
     document.getElementById("demo").innerHTML = result;
     const hour = new date().getHours();
     result
+    hey
  </script>
  </body>
  </html>
