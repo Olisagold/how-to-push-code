@@ -13,6 +13,7 @@
     let result = myFunction(4, 3);
     document.getElementById("demo").innerHTML = result;
     const hour = new date().getHours();
+    result
  </script>
  </body>
  </html>
